@@ -1,0 +1,10 @@
+{
+    "name": "Marcus Rivera",
+    "firm_name": "Summit Capital",
+    "target_sectors": ["fintech", "cleantech", "saas", "enterprise"],
+    "target_stages": ["series_a", "series_b"],
+    "check_size_min": 5000000,
+    "check_size_max": 25000000,
+    "portfolio_focus": "Revenue-generating companies with proven PMF, strong unit economics, and a clear path to market leadership in large addressable markets.",
+    "deals_per_year": 6
+}

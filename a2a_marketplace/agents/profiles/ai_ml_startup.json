@@ -1,0 +1,18 @@
+{
+    "name": "NeuralForge",
+    "sector": "ai_ml",
+    "stage": "seed",
+    "funding_ask": 3000000,
+    "elevator_pitch": "NeuralForge builds on-device ML inference optimization. We reduce model latency by 10x on edge hardware, enabling real-time AI in autonomous vehicles, drones, and IoT devices.",
+    "metrics": {
+        "mrr": 45000,
+        "growth_rate": 0.20,
+        "customers": 12,
+        "arr": 540000,
+        "burn_rate": 120000,
+        "runway_months": 14
+    },
+    "team_size": 8,
+    "founded_year": 2024,
+    "location": "San Francisco, CA"
+}

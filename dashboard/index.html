@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VC Agent Marketplace</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <header>
+        <h1>VC Agent Marketplace</h1>
+        <p class="subtitle">Real-time agent-to-agent deal sourcing</p>
+        <div id="connection-status" class="status-indicator disconnected">Connecting...</div>
+    </header>
+
+    <main>
+        <section id="agents-panel" class="panel">
+            <h2>Connected Agents</h2>
+            <div id="agents-list"></div>
+        </section>
+
+        <section id="deals-panel" class="panel">
+            <h2>Deal Flow</h2>
+            <div id="deals-list"></div>
+        </section>
+
+        <section id="events-panel" class="panel">
+            <h2>Event Log</h2>
+            <div id="events-list"></div>
+        </section>
+    </main>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+    "name": "MediScan",
+    "sector": "healthtech",
+    "stage": "seed",
+    "funding_ask": 4000000,
+    "elevator_pitch": "MediScan uses computer vision to detect early-stage cancers from standard medical imaging with 94% accuracy, reducing diagnostic time from weeks to minutes.",
+    "metrics": {
+        "mrr": 20000,
+        "growth_rate": 0.25,
+        "customers": 5,
+        "arr": 240000,
+        "burn_rate": 150000,
+        "runway_months": 12,
+        "clinical_accuracy": 0.94
+    },
+    "team_size": 10,
+    "founded_year": 2024,
+    "location": "Boston, MA"
+}

@@ -1,0 +1,25 @@
+[project]
+name = "a2a-marketplace"
+version = "0.1.0"
+description = "VC Agent Marketplace using Google A2A Protocol (JSON-RPC 2.0 over HTTP)"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn[standard]>=0.24.0",
+    "httpx>=0.25.0",
+    "pydantic>=2.5.0",
+    "anthropic>=0.39.0",
+    "rich>=13.0.0",
+    "python-dotenv>=1.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["a2a_marketplace", "a2a_marketplace.models", "a2a_marketplace.agents", "a2a_marketplace.orchestrator"]
+package-dir = {"a2a_marketplace" = ".", "a2a_marketplace.models" = "models", "a2a_marketplace.agents" = "agents", "a2a_marketplace.orchestrator" = "orchestrator"}
+
+[project.scripts]
+a2a-marketplace = "a2a_marketplace.main:main"

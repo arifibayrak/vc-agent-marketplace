@@ -1,0 +1,10 @@
+{
+    "name": "Sarah Chen",
+    "firm_name": "Horizon Ventures",
+    "target_sectors": ["ai_ml", "healthtech", "fintech"],
+    "target_stages": ["pre_seed", "seed"],
+    "check_size_min": 500000,
+    "check_size_max": 5000000,
+    "portfolio_focus": "Technical founding teams building category-defining products with defensible IP in AI, health, and financial infrastructure.",
+    "deals_per_year": 12
+}

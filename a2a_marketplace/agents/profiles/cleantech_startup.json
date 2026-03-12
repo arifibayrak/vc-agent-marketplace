@@ -1,0 +1,19 @@
+{
+    "name": "GridZero",
+    "sector": "cleantech",
+    "stage": "series_a",
+    "funding_ask": 12000000,
+    "elevator_pitch": "GridZero builds AI-optimized battery management systems for grid-scale energy storage, increasing battery lifespan by 35% and reducing energy waste by 20%.",
+    "metrics": {
+        "mrr": 95000,
+        "growth_rate": 0.18,
+        "customers": 8,
+        "arr": 1140000,
+        "burn_rate": 280000,
+        "runway_months": 15,
+        "energy_saved_mwh": 12500
+    },
+    "team_size": 15,
+    "founded_year": 2023,
+    "location": "Austin, TX"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "PayStream",
+    "sector": "fintech",
+    "stage": "series_a",
+    "funding_ask": 8000000,
+    "elevator_pitch": "PayStream is a cross-border payment rails platform for SMBs. We cut transaction fees by 60% compared to SWIFT and settle in under 4 hours across 40 countries.",
+    "metrics": {
+        "mrr": 180000,
+        "growth_rate": 0.12,
+        "customers": 340,
+        "arr": 2160000,
+        "burn_rate": 350000,
+        "runway_months": 10,
+        "ltv_cac_ratio": 4.2
+    },
+    "team_size": 22,
+    "founded_year": 2023,
+    "location": "New York, NY"
+}
